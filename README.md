@@ -11,9 +11,9 @@ ___
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
       </a>
-      <br>Go
+      <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
