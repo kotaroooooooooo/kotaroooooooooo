@@ -1,5 +1,4 @@
 ![](https://raw.githubusercontent.com/kotaroooooooooo/kotaroooooooooo/output/github-contribution-grid-snake.svg)
-
 ___
 
 # 📊 GitHub Stats:
