@@ -17,9 +17,9 @@ ___
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/sonicwall.svg" width="48" height="48" alt="SonicWall" />
       </a>
-      <br>Python
+      <br>Sonicwall
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
