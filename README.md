@@ -1,14 +1,12 @@
+<h1 align="left" id="macropower-title">:wave: Hey! I'm Kotaro Yamasaki</h1>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kotaroooooooooo/kotaroooooooooo/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kotaroooooooooo/kotaroooooooooo/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kotaroooooooooo/kotaroooooooooo/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Kotaro Yamasaki</h1>
-
-___
+---
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
