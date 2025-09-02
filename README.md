@@ -8,7 +8,6 @@
 
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Kotaro Yamasaki</h1>
 
-![](https://raw.githubusercontent.com/kotaroooooooooo/kotaroooooooooo/output/github-contribution-grid-snake.svg)
 ___
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
