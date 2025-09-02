@@ -6,6 +6,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kotaroooooooooo/kotaroooooooooo/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 ---
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
